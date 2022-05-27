@@ -3,7 +3,7 @@
 ### This is the introduction for QIAOHUI LIN in GTB
 
 This is QIAOHUI LIN
-<img src="assets/me-now-2022.jpg" alt="me-now-2022" width="30%" />
+<img src="me-now-2022.jpg" alt="me-now-2022" width="30%" />
 <!--
 
 **Here are some ideas to get you started:**
