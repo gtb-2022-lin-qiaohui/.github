@@ -4,7 +4,7 @@
 
 This is QIAOHUI LIN
 
-<img src="me-now-2022.jpg" alt="me-now-2022" width="30%" />
+<img src="me-now-2022.jpg" alt="me-now-2022" width="20%" />
 <!--
 
 **Here are some ideas to get you started:**
